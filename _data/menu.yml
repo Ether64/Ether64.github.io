@@ -7,8 +7,8 @@ entries:
       - title: $ whoami
         entries:
           - title: Welcome to my humble website!
-          - title: I'm a soon-to-be graduate from the University of South Florida.
-          - title: I've always loved writing and am currently very invested in cybersecurity. This website combines my love for both.
+          - title: My name is Ethan Couch- I am soon-to-be graduate from the University of South Florida.
+          - title: I've always loved writing and am currently very invested in cybersecurity. This website combines my affinity for both.
           - title: This page will be continuously updated with blogs, projects, and reports. (Focusing on CTF writeups, network security blogging, and incident response papers.): <a href='https://github.com/Ether64/'>Github</a>
 
   - title: Writeups
