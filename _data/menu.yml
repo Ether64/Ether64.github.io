@@ -2,10 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Just the website of a budding cybersecurity enthusiast that takes nothing too seriously.
+
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
+      - title: Ethan Couch
+      - title: ethanccouch@gmail.com
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
