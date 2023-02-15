@@ -1,10 +1,10 @@
-title: ether's domain
-author: Ethan Couch # 
+title: ether's domain # name of site
+author: Ethan Couch # name of site's author
 email: ethanccouch@gmail.com # email of site's author
 url: https://Ether64.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Just the website of a budding cybersecurity enthusiast that takes nothing too seriously.
+  Just the website of a budding cybersecurity enthusiast that takes nothing too serious.
 
 permalink: /:slug.html
 
