@@ -6,8 +6,9 @@ entries:
         entries:
           - title: Welcome to my humble website!
           - title: My name is Ethan Couch- cybersecurity enthusiast who takes nothing too serious.
-          - title: I've always loved writing and am currently very invested in cybersecurity. This website combines my affinity for both.
-          - title: This page will be continuously updated with blogs, projects, and reports. I am focusing on providing CTF writeups, network security blogging, and incident response papers. <a href='https://github.com/Ether64/'>Github</a>
+          - title: I've always loved writing and have dedicated my undergraduate years to cybersecurity. This website combines my affinity for both.
+          - title: This page will be continuously updated with blogs, projects, and reports. I am focusing on providing CTF writeups, network security blogging, and security projects that can be found on my <a href='https://github.com/Ether64/'>Github.</a>
+          - title: Take a look at my <a href='/assets/resumes/EthanCouch_Resume.pdf'>Resume!</a>
 
 
   - title: Writeups
