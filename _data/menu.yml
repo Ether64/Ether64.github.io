@@ -2,6 +2,8 @@
 # https://github.com/riggraz/no-style-please #customize-the-menu
 
 entries:
+  - title: $ about.sh
+    entries:
       - title: $ whoami
         entries:
           - title: Welcome to my humble website!
@@ -9,7 +11,6 @@ entries:
           - title: I've always loved writing and have dedicated my undergraduate years to cybersecurity. This website combines my affinity for both.
           - title: This page will be continuously updated with blogs, projects, and reports. I am focusing on providing CTF writeups, network security blogging, and security projects that can be found on my <a href='https://github.com/Ether64/'>Github.</a>
           - title: Take a look at my <a href='/assets/resumes/EthanCouch_Resume.pdf'>Resume!</a>
-
 
   - title: Writeups
     post_list:
@@ -26,7 +27,15 @@ entries:
       show_more: true
       show_more_text: View all blog posts ...
       show_more_url: example2-archive.html
-  
+
+  - title: Cheat Sheet
+    post_list:
+      limit: 10
+      category: cheatsheets
+      show_more: true
+      show_more_text: View all blog posts ...
+      show_more_url: example2-archive.html
+
   - title: all posts
     post_list:
       limit: 100
