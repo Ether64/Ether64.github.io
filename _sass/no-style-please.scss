@@ -19,7 +19,7 @@ body[a="light"] { @include light-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: black; }
+html, body { background: rgb(38, 38, 38); }
 
 html { height: 100%; }
 
@@ -46,11 +46,11 @@ li { margin: 0.4rem 0; }
 *:target { background: green; }
 
 a:link{
-  color: #b06a08;
+  color: #de0404;
 }
 
 a:visited{
-  color: #dbb724;
+  color: #ff1504;
 }
 
 .w {
