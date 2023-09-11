@@ -10,10 +10,10 @@ entries:
           - title: Cybersecurity enthusiast who takes nothing too serious.
           - title: I've always loved writing and have dedicated my undergraduate years to cybersecurity. This website combines my affinity for both.
           - title: This page will be continuously updated with blogs, projects, and reports. I am focusing on providing CTF writeups, infosec blogging, and security projects that can be found on my <a href='https://github.com/Ether64/'>Github.</a>
-          - title: Take a look at my <a href='/assets/resumes/EthanCouch_Resume.pdf'>Resume!</a>
+          - title: Take a look at my <a href='/assets/resumes/EthanCouch_Resume.pdf'>Resume.</a>
           - title: Check out my <a href='https://www.linkedin.com/in/ethancc60'>LinkedIn</a> for more professional details and networking opportunities.
 
-  - title: Writeups
+  - title: Writeups (Under Development)
     post_list:
       limit: 10
       category: writeups
