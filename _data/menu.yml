@@ -19,7 +19,7 @@ entries:
       category: writeups
       show_more: true
       show_more_text: View all writeups ...
-      show_more_url: /writeups/
+      show_more_url: /writeups/Writeup Directory.html
 
   - title: Blog Posts (Under Development)
     post_list:
