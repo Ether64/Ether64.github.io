@@ -6,7 +6,7 @@ entries:
     entries:
       - title: $ whoami
         entries:
-          - title: <a href='/assets/certifications/Obtained Certs.pdf'>Ethan Couch</a> - B.S. in Cybersecurity from University of South Florida. Graduated Summa Cum Laude (2023).
+          - title: <a href='/assets/certifications/Obtained Certifications.pdf'>Ethan Couch</a> - B.S. in Cybersecurity from University of South Florida. Graduated Summa Cum Laude (2023).
           - title: Cybersecurity enthusiast who takes nothing too serious.
           - title: I've always loved writing and have dedicated my undergraduate years to cybersecurity. This website combines my affinity for both.
           - title: This page will be continuously updated with blogs, projects, and reports. I am focusing on providing CTF writeups, infosec blogging, and security projects that can be found on my <a href='https://github.com/Ether64/'>Github.</a>
