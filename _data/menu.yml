@@ -1,0 +1,45 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please #customize-the-menu
+
+entries:
+  - title: $ about.sh
+    entries:
+      - title: $ whoami
+        entries:
+          - title: Ethan Couch - B.S. in Cybersecurity from University of South Florida. Graduated Summa Cum Laude (2023).
+          - title: Cybersecurity enthusiast who takes nothing too serious.
+          - title: I've always loved writing and have dedicated my undergraduate years to cybersecurity. This website combines my affinity for both.
+          - title: This page will be continuously updated with blogs, projects, and reports. I am focusing on providing CTF writeups, infosec blogging, and security projects that can be found on my <a href='https://github.com/Ether64/'>Github.</a>
+          - title: Take a look at my <a href='/assets/resumes/EthanCouch_Resume.pdf'>Resume!</a>
+          - title: Check out my <a href='https://www.linkedin.com/in/ethancc60'>LinkedIn</a> for more professional details and networking opportunities.
+
+  - title: Writeups
+    post_list:
+      limit: 10
+      category: writeups
+      show_more: true
+      show_more_text: View all writeups ...
+      show_more_url: example2-archive.html
+
+  - title: Blog Posts
+    post_list:
+      limit: 10
+      category: blogs
+      show_more: true
+      show_more_text: View all blog posts ...
+      show_more_url: example2-archive.html
+
+  - title: Cheat Sheet
+    post_list:
+      limit: 10
+      category: cheatsheets
+      show_more: true
+      show_more_text: View all blog posts ...
+      show_more_url: example2-archive.html
+
+  - title: all posts
+    post_list:
+      limit: 100
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
