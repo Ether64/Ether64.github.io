@@ -21,7 +21,7 @@ entries:
       show_more_text: View all writeups ...
       show_more_url: example2-archive.html
 
-  - title: Blog Posts
+  - title: Blog Posts (Under Development)
     post_list:
       limit: 10
       category: blogs
@@ -29,7 +29,7 @@ entries:
       show_more_text: View all blog posts ...
       show_more_url: example2-archive.html
 
-  - title: Cheat Sheet
+  - title: Cheat Sheet (Under Development)
     post_list:
       limit: 10
       category: cheatsheets
