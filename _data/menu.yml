@@ -13,7 +13,7 @@ entries:
           - title: Take a look at my <a href='/assets/resumes/EthanCouch_Resume.pdf'>Resume.</a>
           - title: Check out my <a href='https://www.linkedin.com/in/ethancc60'>LinkedIn</a> for more professional details and networking opportunities.
 
-  - title: Writeups (Under Development)
+  - title: Writeups (Under Development
     post_list:
       limit: 10
       category: writeups
