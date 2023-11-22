@@ -24,7 +24,7 @@ html, body { background: rgb(38, 38, 38); }
 html { height: 100%; }
 
 body {
-  color: #be730b;
+  color: hsl(0, 87%, 48%);
   font-family: monospace;
   font-size: 16px;
   line-height: 1.4;
@@ -46,11 +46,11 @@ li { margin: 0.4rem 0; }
 *:target { background: green; }
 
 a:link{
-  color: #de0404;
+  color: #ffffff;
 }
 
 a:visited{
-  color: #ff1504;
+  color: #fefefe;
 }
 
 .w {
